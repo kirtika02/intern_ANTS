@@ -40,7 +40,7 @@ namespace serial_com_modbus
         {
             InitializeComponent();
         }
-        SqlConnection con = new SqlConnection("Data Source=LAPTOP-1607PLPM\\SQLEXPRESS;Initial Catalog=Alicat_final;Persist Security Info=True;User ID=Kirtika;Password=kirt5802");
+        SqlConnection con = new SqlConnection("Data Source=LAPTOP-1607PLPM\\SQLEXPRESS;Initial Catalog=Alicat_final;Persist Security Info=True;User ID=Kirtika;Password=********");
         //Integrated Security = False;
         DataGridView dataGridView1 = new DataGridView();
 
@@ -186,7 +186,7 @@ namespace serial_com_modbus
             
 
 
-            //SqlConnection con = new SqlConnection("Data Source=LAPTOP-1607PLPM\\SQLEXPRESS;Initial Catalog=Alicat_final;Persist Security Info=True;User ID=Kirtika;Password=kirt5802");
+            //SqlConnection con = new SqlConnection("Data Source=LAPTOP-1607PLPM\\SQLEXPRESS;Initial Catalog=Alicat_final;Persist Security Info=True;User ID=Kirtika;Password=********");
             con.Open();
             SqlCommand comm = new SqlCommand("Save in Tab('" + SrNo + "','" + comPort + "','" + baudRate + "','" + databits + "','" + startbits + "','" + stopbits + "','" + parity + "','" + device + "','" + UnitID + "','" + gas + "' ,'" + flowcontrol + "','" + model + "','" + session + "')", con);
             comm.ExecuteNonQuery();
