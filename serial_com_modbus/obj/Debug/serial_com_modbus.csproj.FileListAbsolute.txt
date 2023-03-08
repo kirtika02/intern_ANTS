@@ -1,0 +1,17 @@
+C:\Users\Kirtika\source\repos\serial_com_modbus\serial_com_modbus\bin\Debug\serial_com_modbus.exe.config
+C:\Users\Kirtika\source\repos\serial_com_modbus\serial_com_modbus\bin\Debug\serial_com_modbus.exe
+C:\Users\Kirtika\source\repos\serial_com_modbus\serial_com_modbus\bin\Debug\serial_com_modbus.pdb
+C:\Users\Kirtika\source\repos\serial_com_modbus\serial_com_modbus\obj\Debug\serial_com_modbus.csproj.AssemblyReference.cache
+C:\Users\Kirtika\source\repos\serial_com_modbus\serial_com_modbus\obj\Debug\serial_com_modbus.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kirtika\source\repos\serial_com_modbus\serial_com_modbus\obj\Debug\serial_com_modbus.Form1.resources
+C:\Users\Kirtika\source\repos\serial_com_modbus\serial_com_modbus\obj\Debug\serial_com_modbus.Properties.Resources.resources
+C:\Users\Kirtika\source\repos\serial_com_modbus\serial_com_modbus\obj\Debug\serial_com_modbus.csproj.GenerateResource.cache
+C:\Users\Kirtika\source\repos\serial_com_modbus\serial_com_modbus\obj\Debug\serial_com_modbus.csproj.CoreCompileInputs.cache
+C:\Users\Kirtika\source\repos\serial_com_modbus\serial_com_modbus\obj\Debug\serial_com_modbus.exe
+C:\Users\Kirtika\source\repos\serial_com_modbus\serial_com_modbus\obj\Debug\serial_com_modbus.pdb
+C:\Users\Kirtika\source\repos\serial_com_modbus\serial_com_modbus\bin\Debug\EasyModbus.dll
+C:\Users\Kirtika\source\repos\serial_com_modbus\serial_com_modbus\obj\Debug\serial_com_modbus.csproj.CopyComplete
+C:\Users\Kirtika\source\repos\serial_com_modbus\serial_com_modbus\obj\Debug\serial_com_modbus.Form2.resources
+C:\Users\Kirtika\source\repos\serial_com_modbus\serial_com_modbus\bin\Debug\Nevron.Presentation.dll
+C:\Users\Kirtika\source\repos\serial_com_modbus\serial_com_modbus\bin\Debug\Nevron.System.dll
+C:\Users\Kirtika\source\repos\serial_com_modbus\serial_com_modbus\obj\Debug\serial_com_modbus.exe.licenses
